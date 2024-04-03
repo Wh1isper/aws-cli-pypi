@@ -1,3 +1,5 @@
+![http://dockeri.co/image/wh1isper/aws-cli-pypi](https://hub.docker.com/r/wh1isper/aws-cli-pypi)
+
 Usage: Build your docker with aws codeartifact pypi access.
 
 ```Dockerfile
