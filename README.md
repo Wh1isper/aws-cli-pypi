@@ -1,5 +1,7 @@
 [![Docker build](http://dockeri.co/image/wh1isper/aws-cli-pypi)](https://hub.docker.com/r/wh1isper/aws-cli-pypi)
 
+** Build everyday, so you don't need to worry any outdated packages for security. **
+
 Usage: Build your docker with aws codeartifact pypi access.
 
 ```Dockerfile
